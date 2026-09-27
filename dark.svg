@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Rutvek Ladhi — B.Tech AIDS student focused on AI/ML, web development and DSA.">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030712"/><stop offset="1" stop-color="#0F172A"/></linearGradient>
+ <linearGradient id="a" x1="0" x2="1"><stop stop-color="#A78BFA"/><stop offset=".55" stop-color="#22D3EE"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+ <radialGradient id="g"><stop stop-color="#22D3EE" stop-opacity=".10"/><stop offset="1" stop-color="#030712" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#94A3B8" stroke-opacity=".06"/></pattern>
+ <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#000" flood-opacity=".38"/></filter>
+</defs>
+<rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#bg)" stroke="#334155" stroke-opacity=".7"/>
+<rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#grid)"/>
+<circle cx="400" cy="260" r="270" fill="url(#g)"/>
+
+<rect x="30" y="30" width="400" height="550" rx="18" fill="#0F172A" fill-opacity=".62" stroke="#334155" filter="url(#shadow)"/>
+<rect x="30" y="30" width="400" height="44" rx="18" fill="#020617" fill-opacity=".92"/>
+<circle cx="54" cy="52" r="5" fill="#FB7185"/><circle cx="72" cy="52" r="5" fill="#FBBF24"/><circle cx="90" cy="52" r="5" fill="#34D399"/>
+<text x="112" y="57" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">visual.map</text>
+<text x="342" y="57" fill="#22D3EE" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10">ASCII</text>
+
+<rect x="44" y="94" width="372" height="374" rx="14" fill="#020617" fill-opacity=".28" stroke="#22D3EE" stroke-opacity=".18"/>
+<text x="64" y="113" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" letter-spacing="2">BACKGROUND REMOVED / ASCII PORTRAIT</text>
+<text x="64" y="132" fill="url(#a)" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="8.2" xml:space="preserve"><tspan x="64" dy="0" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.450s" fill="freeze"/>                           -----</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.465s" fill="freeze"/>                     -::::::::::::::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.480s" fill="freeze"/>                   :::....:::::.::..:::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.495s" fill="freeze"/>                -::..:::.-*####+::::::.::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.510s" fill="freeze"/>               ::.::::::+%%@@@@%=.:::::::.:-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.525s" fill="freeze"/>             ::.::::::.=@%%%##%@#::::::::::::</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.540s" fill="freeze"/>            :.::::::::.#%+----+%%:::::::::::.:-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.555s" fill="freeze"/>          -:.::::::::.-%+::::-=+%=.::::::::::::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.570s" fill="freeze"/>         -:.:::::::::.+%-:::::-+#*.::::::::::::.-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.585s" fill="freeze"/>        -::::::::::::.**:::::-=+**::::::::::::::.-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.600s" fill="freeze"/>       -:::::::::::::.++-=+:-+*++*.::::::::::::::.-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.615s" fill="freeze"/>       :.::::::::::::.==-++--==+++:::::::::::::::::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.630s" fill="freeze"/>      :.:::::::::::::.--:-:::=--=+::::::::::::::::::</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.645s" fill="freeze"/>     -.::::::::::::::.:-:.::-=-:++:::::::::::::::::.:</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.660s" fill="freeze"/>     ::::::::::::::::.:-:::-=++=+=:::::::::::::::::::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.675s" fill="freeze"/>    :.::::::::::::::::.:--=--=+++:::::::::::::::::::.:</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.690s" fill="freeze"/>    :::::::::::::::::::.:-:::-=+=::::::::::::::::::::.-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.705s" fill="freeze"/>   :.::::::::::::::.:::::--::-+*=::::::::::::::::::::.:</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.720s" fill="freeze"/>   :::::::::::::....:.::.-++==##==:::::::::::::::::::::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.735s" fill="freeze"/>  :.::::::::::.....:::::.:-=+**-:%+:::::::::::::::::::.:</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.750s" fill="freeze"/>  :.::::::::::.......::.:::-=+: -%%*=-::::::::::::::::::</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.765s" fill="freeze"/>  :::::::::::.......:..-*: :-  .+%#%##*=-:::::::::::::::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.780s" fill="freeze"/> -.::::::::::.....:..:+##-:+=- .#########*=::::::::::::.-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.795s" fill="freeze"/> :.:::::::::.......:+####-=**#.-##########%*:::::::::::.:</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.810s" fill="freeze"/> :.:::::::::.....:=#%####- +#: +##########%#:::::::::::::</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.825s" fill="freeze"/> :.:::::::::...:.+%######- +#..*##########%%-::::::::::::</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.840s" fill="freeze"/> ::::::::::...::.*#######=:+*::############%=::::::::::::</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.855s" fill="freeze"/>-::::::::::::::.:*#######+-++:=############%+::::::::::::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.870s" fill="freeze"/>-::::::::::::::.-########*=++=#########%##%%*::::::::::::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.885s" fill="freeze"/>-::::::::::::::.-######*##*++*########%%##%%#::::::::::::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.900s" fill="freeze"/>-::::::::::::::.=#######*#*+*##*######%%##%%%-:::::::::::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.915s" fill="freeze"/>-::::::::::::::.=#######*##+##*#######%##%#%%-:::::::::::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.930s" fill="freeze"/> ::::::::::::::.*#######*#####*######%%###%%%=:::::::::::</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.945s" fill="freeze"/> :.::::::::::::.*#######*####*#######%%##%%%%=:::::::::::</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.960s" fill="freeze"/> :.:::::::::::::*#######*##*#*#######%%####%%=:-:::::::::</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.975s" fill="freeze"/> :.:::::::::::.-########*#####%#####%%%###%#%+:--::::::::</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="0.990s" fill="freeze"/> -.:::::::::::.-###%########*#%*####%%%#####%+:---::::::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.005s" fill="freeze"/>  ::::::::::::.=###%######%##%######%@%#####%+:----:::::</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.020s" fill="freeze"/>  :.::::::::::.+##########%*#%#####%%@%####%%+------:::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.035s" fill="freeze"/>  -.::::::::::.*###%%#####%*%#####%%%@#####%%+-------::-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.050s" fill="freeze"/>   :.::::::::::*##%%%#####%#%####%%%%@%%####%+-------:-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.065s" fill="freeze"/>   -.::::::::.-##%%%@#####%######%%%%@%####%%=-------:-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.080s" fill="freeze"/>    :.::::::::-####%%#####%#%####%%%@@%###%%%=------:-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.095s" fill="freeze"/>    -.:::::::::####%%#####%######%%%@%####%%%=------:-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.110s" fill="freeze"/>     :.::::::::*####%#####%#####%%%%#####%%%#-==---:-</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.125s" fill="freeze"/>      :.::::::.=#####%####%#####%%%%#####%%%+-==----</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.140s" fill="freeze"/>      -:::::::::######%#########%%######%%%+-====--=</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.155s" fill="freeze"/>       -.::::::.=##############%%######%%%*======-=</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.170s" fill="freeze"/>        -.:::::::*#####%##############%%%#-=====-=</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.185s" fill="freeze"/>         :.::::::-###*#%%#%##########%%%@#=====-=</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.200s" fill="freeze"/>          -:.:::::+#*#*:+#%%%+:######%%%@%======</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.215s" fill="freeze"/>           -:.::::-##+.:--==+#--####%%@%%@+===+</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.230s" fill="freeze"/>             ::.:::*#.:--:-:=%%:+##%%@%%%%*-=</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.245s" fill="freeze"/>              -::::*#-==::---#%+:%%@@%%%%%#=</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.260s" fill="freeze"/>                -:-*#%--:----=%%%%%%%%%%%%</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.275s" fill="freeze"/>                  =###+--::--+%%%%%#%%%%</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.290s" fill="freeze"/>                     %*==---=*+%##%#%</tspan>
+<tspan x="64" dy="8.2" opacity="0"><animate attributeName="opacity" values="0;1" dur=".32s" begin="1.305s" fill="freeze"/>                          ++*+%%</tspan></text>
+
+<line x1="64" y1="468" x2="400" y2="468" stroke="url(#a)" stroke-opacity=".3"/>
+<text x="64" y="492" fill="#22D3EE" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10">$ whoami</text>
+<text x="64" y="516" fill="#F8FAFC" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="18" font-weight="700">RUTVEK LADHI</text>
+<text x="64" y="539" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10">B.Tech AIDS · AI/ML · Web Development</text>
+<text x="64" y="560" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10">~/profile $ build --learn --ship</text>
+
+<rect x="452" y="30" width="698" height="550" rx="18" fill="#0F172A" fill-opacity=".62" stroke="#334155" filter="url(#shadow)"/>
+<rect x="452" y="30" width="698" height="44" rx="18" fill="#020617" fill-opacity=".92"/>
+<text x="480" y="57" fill="#22D3EE" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">$ ./profile.sh</text>
+<text x="1040" y="57" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10">SYSTEM.INFO</text>
+
+<text x="488" y="112" fill="#F8FAFC" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="28" font-weight="700">Rutvek Ladhi</text>
+<text x="488" y="140" fill="url(#a)" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15">B.Tech AIDS Student · AI/ML &amp; Web Development</text>
+<text x="488" y="166" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">Learning by building practical software projects.</text>
+
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace">
+<text x="488" y="204" fill="#22D3EE" font-size="10">PROFILE</text>
+<text x="488" y="229" fill="#94A3B8" font-size="11">&gt; EDUCATION</text><text x="615" y="229" fill="#F8FAFC" font-size="11">B.Tech · AIDS · NIAT × SGU</text>
+<text x="488" y="251" fill="#94A3B8" font-size="11">&gt; FOCUS</text><text x="615" y="251" fill="#F8FAFC" font-size="11">AI/ML · Web Development · DSA</text>
+<text x="488" y="273" fill="#94A3B8" font-size="11">&gt; BUILDING</text><text x="615" y="273" fill="#F8FAFC" font-size="11">KisanPilot · CareNexus · Web Apps</text>
+<text x="488" y="311" fill="#22D3EE" font-size="10">SELECTED STACK</text>
+</g>
+
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10">
+<g><rect x="488" y="327" width="72" height="28" rx="14" fill="#A78BFA" fill-opacity=".10" stroke="#A78BFA" stroke-opacity=".4"/><text x="524" y="345" text-anchor="middle" fill="#F8FAFC">C++</text></g>
+<g><rect x="568" y="327" width="82" height="28" rx="14" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".4"/><text x="609" y="345" text-anchor="middle" fill="#F8FAFC">HTML</text></g>
+<g><rect x="658" y="327" width="84" height="28" rx="14" fill="#10B981" fill-opacity=".10" stroke="#10B981" stroke-opacity=".4"/><text x="700" y="345" text-anchor="middle" fill="#F8FAFC">React</text></g>
+<g><rect x="750" y="327" width="86" height="28" rx="14" fill="#22D3EE" fill-opacity=".10" stroke="#22D3EE" stroke-opacity=".4"/><text x="793" y="345" text-anchor="middle" fill="#F8FAFC">Node.js</text></g>
+<g><rect x="844" y="327" width="82" height="28" rx="14" fill="#A78BFA" fill-opacity=".10" stroke="#A78BFA" stroke-opacity=".4"/><text x="885" y="345" text-anchor="middle" fill="#F8FAFC">GitHub</text></g>
+<g><rect x="934" y="327" width="120" height="28" rx="14" fill="#10B981" fill-opacity=".10" stroke="#10B981" stroke-opacity=".4"/><text x="994" y="345" text-anchor="middle" fill="#F8FAFC">Machine Learning</text></g>
+</g>
+
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace">
+<text x="488" y="389" fill="#22D3EE" font-size="10">SELECTED PROJECTS</text>
+<text x="488" y="414" fill="#F8FAFC" font-size="12" font-weight="700">KisanPilot</text><text x="595" y="414" fill="#94A3B8" font-size="10">AI-powered agriculture advisory platform</text>
+<text x="488" y="438" fill="#F8FAFC" font-size="12" font-weight="700">CareNexus</text><text x="595" y="438" fill="#94A3B8" font-size="10">Healthcare project for SIH 2026</text>
+<text x="488" y="462" fill="#F8FAFC" font-size="12" font-weight="700">Doctor Appointment System</text><text x="690" y="462" fill="#94A3B8" font-size="10">Patient + admin booking workflow</text>
+<line x1="488" y1="485" x2="1115" y2="485" stroke="#334155" stroke-opacity=".7"/>
+<text x="488" y="510" fill="#94A3B8" font-size="10">CONNECT</text>
+<a href="https://github.com/rutvekladhi0-dot"><text x="570" y="510" fill="#22D3EE" font-size="10">github</text></a>
+<a href="https://www.linkedin.com/in/rutvekladhi"><text x="640" y="510" fill="#22D3EE" font-size="10">linkedin</text></a>
+<text x="488" y="544" fill="#94A3B8" font-size="10">STATUS</text><text x="570" y="544" fill="#10B981" font-size="10">● BUILDING · LEARNING · SHIPPING</text>
+</g>
+
+<rect x="8" y="8" width="1164" height="594" rx="24" fill="none" stroke="url(#a)" stroke-opacity=".3">
+<animate attributeName="stroke-opacity" values=".18;.5;.18" dur="5s" repeatCount="indefinite"/>
+</rect>
+</svg>

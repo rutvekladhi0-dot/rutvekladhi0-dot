@@ -1,0 +1,14 @@
+GITHUB PROFILE SETUP
+1. Download and unzip this folder.
+2. On GitHub, create a PUBLIC repository with the exact name rutvekladhi0-dot (same as your GitHub username).
+3. Upload README.md, dark.svg and light.svg to the ROOT of that repository. Commit.
+4. Open https://github.com/rutvekladhi0-dot to see the profile.
+
+SNAKE (OPTIONAL)
+5. Create a separate PUBLIC repository named github-snake.
+6. Create .github/workflows/snake.yml there; paste the contents of snake.yml from this ZIP.
+7. Under Settings > Actions > General, set workflow permissions to Read and write, if necessary.
+8. Actions > Generate Contribution Snake > Run workflow.
+9. Wait for the output branch; the README snake then appears.
+
+NOTE: The portrait is made from SVG text characters only. No embedded raster image or external image is used in either banner.
